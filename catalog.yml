@@ -7,3 +7,6 @@ skills:
   doc-translator:
     title: "社内用語集準拠の翻訳"
     summary: "契約書や社内文書を、社内用語集に沿った訳語で日英・英日翻訳する。"
+  sql-helper:
+    title: "自然文からSQL作成"
+    summary: "「先月の地域別売上を出したい」といった文章から、社内データ基盤向けのSQLを作成し内容を説明する。"
