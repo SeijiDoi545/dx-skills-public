@@ -10,3 +10,6 @@ skills:
   sql-helper:
     title: "自然文からSQL作成"
     summary: "「先月の地域別売上を出したい」といった文章から、社内データ基盤向けのSQLを作成し内容を説明する。"
+  excel-to-dashboard:
+    title: "Excelからダッシュボード作成"
+    summary: "Excelの集計表を読み込み、グラフと指標カードで構成したダッシュボードを作る。"
