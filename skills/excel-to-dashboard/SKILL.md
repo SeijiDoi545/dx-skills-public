@@ -1,6 +1,6 @@
 ---
 name: excel-to-dashboard
-description: "Excelの集計表を読み込み、グラフと指標カードで構成したダッシュボードを作る。"
+description: "Excelの集計表を読み込み、グラフと指標カードで構成したダッシュボードを作る。（自動集計テスト）"
 ---
 
 # Excelからダッシュボード作成
